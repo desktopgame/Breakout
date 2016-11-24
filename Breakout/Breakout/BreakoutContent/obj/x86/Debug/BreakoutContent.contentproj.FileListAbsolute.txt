@@ -1,0 +1,1 @@
+C:\Users\Koya\Desktop\SVN\Local\Breakout\v1\trunk\Breakout\Breakout\BreakoutContent\obj\x86\Debug\BreakoutContent.contentprojResolveAssemblyReference.cache
